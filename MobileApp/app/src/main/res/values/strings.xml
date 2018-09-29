@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MallNowApp</string>
+    <string name="SplashImage">SplashImage</string>
+    <string name="mall_name">Mall</string>
+    <string name="address">Address</string>
+    <string name="mall_icon">Icon</string>
+    <string name="capacity">Capacity</string>
+</resources>
